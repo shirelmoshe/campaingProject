@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.data.sql\bin\Debug\ProjectCampaigns.data.sql.dll
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.data.sql\bin\Debug\ProjectCampaigns.data.sql.pdb
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.data.sql\bin\Debug\ProjectCampaigns.Dal.dll
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.data.sql\bin\Debug\ProjectCampaigns.Model.dll
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.data.sql\bin\Debug\ProjectCampaigns.Dal.pdb
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.data.sql\bin\Debug\ProjectCampaigns.Model.pdb
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.data.sql\obj\Debug\ProjectCampaigns.data.sql.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.data.sql\obj\Debug\ProjectCampaigns.data.sql.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.data.sql\obj\Debug\ProjectCampaigns.data.sql.csproj.CopyComplete
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.data.sql\obj\Debug\ProjectCampaigns.data.sql.dll
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.data.sql\obj\Debug\ProjectCampaigns.data.sql.pdb

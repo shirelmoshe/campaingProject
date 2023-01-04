@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Entities\bin\Debug\ProjectCampaigns.Entities.dll
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Entities\bin\Debug\ProjectCampaigns.Entities.pdb
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Entities\bin\Debug\ProjectCampaigns.Dal.dll
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Entities\bin\Debug\ProjectCampaigns.Model.dll
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Entities\bin\Debug\ProjectCampaigns.Dal.pdb
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Entities\bin\Debug\ProjectCampaigns.Model.pdb
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Entities\obj\Debug\ProjectCampaigns.Entities.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Entities\obj\Debug\ProjectCampaigns.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Entities\obj\Debug\ProjectCampaigns.Entities.csproj.CopyComplete
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Entities\obj\Debug\ProjectCampaigns.Entities.dll
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Entities\obj\Debug\ProjectCampaigns.Entities.pdb
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Entities\bin\Debug\ProjectCampaigns.data.sql.dll
+C:\Users\User\source\repos\ProjectCampaigns\ProjectCampaigns.Entities\bin\Debug\ProjectCampaigns.data.sql.pdb
